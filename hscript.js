@@ -4,7 +4,7 @@ document.getElementById('logoutBtn').addEventListener('click', function() {
   // For example, you might want to clear any stored authentication tokens, redirect to the login page, etc.
   alert('Logged out successfully!');
   // For demonstration purposes, let's redirect to the login page
-  window.location.href = 'Index.html';
+  window.location.href = 'index.html';
 });
 
 document.addEventListener("DOMContentLoaded", function() {
